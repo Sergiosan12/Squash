@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Keyla {
+public class Keyla {
+    public void Keyla(){
+
+    }
 }
